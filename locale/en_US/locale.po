@@ -43,5 +43,58 @@ msgstr "Hide PlumX badge when there are no mentions"
 msgid "plugins.generic.badges.manager.settings.showPlumx"
 msgstr "Show PlumX badge"
 
+msgid "plugins.generic.badges.manager.settings.dimensionsBadgeStyle"
+msgstr "Dimensions badge style"
+
+msgid "plugins.generic.badges.manager.settings.dimensionsBadgeSmallCircleStyle"
+msgstr "Small circle"
+
+msgid "plugins.generic.badges.manager.settings.dimensionsBadgeMediumCircleStyle"
+msgstr "Medium circle"
+
+msgid "plugins.generic.badges.manager.settings.dimensionsBadgeLargeCircleStyle"
+msgstr "Large circle"
+
+msgid "plugins.generic.badges.manager.settings.dimensionsBadgeSmallRectangleStyle"
+msgstr "Small rectangle"
+
+msgid "plugins.generic.badges.manager.settings.dimensionsBadgeLargeRectangleStyle"
+msgstr "Large rectangle"
+
+msgid "plugins.generic.badges.manager.settings.altmetricBadgeStyle"
+msgstr "Altmetric badge style"
+
+msgid "plugins.generic.badges.manager.settings.altmetricBadgeStyleDetails"
+msgstr ""
+"See <a target=\"_new\" href=\"https://badge-docs.altmetric.com/"
+"customizations.html#badge-types\">Badge types</a> for details."
+
+msgid "plugins.generic.badges.manager.settings.altmetricBadgeDefaultStyle"
+msgstr "Default"
+
+msgid "plugins.generic.badges.manager.settings.altmetricBadgeDonutStyle"
+msgstr "Donut"
+
+msgid "plugins.generic.badges.manager.settings.altmetricBadgeMediumDonutStyle"
+msgstr "Medium donut"
+
+msgid "plugins.generic.badges.manager.settings.altmetricBadgeLargeDonutStyle"
+msgstr "Large donut"
+
+msgid "plugins.generic.badges.manager.settings.altmetricBadge1Style"
+msgstr "1"
+
+msgid "plugins.generic.badges.manager.settings.altmetricBadge4Style"
+msgstr "4"
+
+msgid "plugins.generic.badges.manager.settings.altmetricBadgeBarStyle"
+msgstr "Bar"
+
+msgid "plugins.generic.badges.manager.settings.altmetricBadgeMediumBarStyle"
+msgstr "Medium bar"
+
+msgid "plugins.generic.badges.manager.settings.altmetricBadgeLargeBarStyle"
+msgstr "Large bar"
+
 msgid "plugins.generic.badges.manager.settings.showBlockTitle"
 msgstr "Metrics"
